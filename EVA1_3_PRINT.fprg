@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="PRACTICA 3 PRIT"/>
+        <attribute name="authors" value="zarat"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:40:42 p. m."/>
+        <attribute name="created" value="emFyYXQ7QUxXSU47MjAyNS0wOC0yNjswNTowMzo1OSBwLiBtLjsyNDA0"/>
+        <attribute name="edited" value="emFyYXQ7QUxXSU47MjAyNS0wOC0yNjswNTo0MDo0MiBwLiBtLjsyOzI1MDY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE:&quot;" newline="False"/>
+            <output expression="&quot;ALWIN IVAN ZARATE PE&#209;A&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL:&quot;" newline="False"/>
+            <output expression="&quot;25550655&quot;" newline="True"/>
+            <output expression="&quot;EDAD:&quot;" newline="False"/>
+            <output expression="&quot;18&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
