@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="zarat"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 09:59:33 p. m."/>
+        <attribute name="created" value="emFyYXQ7QUxXSU47MjAyNS0wOC0yNjswOTowMjo1NyBwLiBtLjsyNDA1"/>
+        <attribute name="edited" value="emFyYXQ7QUxXSU47MjAyNS0wOC0yNjswOTo1OTozMyBwLiBtLjsxOzI1MTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;RUBEN HERNANDEZ&quot;" newline="True"/>
+            <output expression="&quot;1000&quot;" newline="True"/>
+            <output expression="&quot;3.1416&quot;" newline="True"/>
+            <output expression="true" newline="True"/>
+            <output expression="&quot;A&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
